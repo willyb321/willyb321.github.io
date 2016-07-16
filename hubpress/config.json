@@ -7,7 +7,11 @@
   "site": {
     "title": "Willyb321's blog"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "Wbwilliam7@gmail.com",
+    "twitter": "Willyb321",
+    "github": "Willyb321"
+  },
   "theme": {
     "name": "casper"
   }
