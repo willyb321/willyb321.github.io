@@ -4,7 +4,11 @@
     "repositoryName": "willyb321.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Willyb321's blog"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
