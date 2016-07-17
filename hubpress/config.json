@@ -2,7 +2,8 @@
   "meta": {
     "username": "willyb321",
     "repositoryName": "willyb321.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": "willyb321.xyz"
   },
   "site": {
     "title": "Willyb321's blog",
