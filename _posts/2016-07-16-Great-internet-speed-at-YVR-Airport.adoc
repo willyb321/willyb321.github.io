@@ -1,5 +1,5 @@
 = Great internet speed at YVR Airport
-
+:hp-tags: willyb321, tehsuperwilly, github, open source, git, speed, test, speedof, internet
 
 Was there for the flight home. Still new to this blog malarkey.
 
