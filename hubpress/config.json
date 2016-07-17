@@ -6,7 +6,10 @@
   },
   "site": {
     "title": "Willyb321's blog",
-    "description": "Rambling of the me"
+    "description": "Rambling of the me",
+    "logo": "http://i.imgur.com/MTslKic.jpg",
+    "cover": "https://goo.gl/photos/eComvR5TLN6P98BZA",
+    "googleAnalytics": "UA-55840909-10"
   },
   "socialnetwork": {
     "email": "Wbwilliam7@gmail.com",
