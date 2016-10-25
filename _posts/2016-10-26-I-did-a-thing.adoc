@@ -1,5 +1,6 @@
 = I did a thing.
 :hp-tags: willyb321, tehsuperwilly, github, open source, git, elite, dangerous
 
-It's an application that is used for Elite: Dangerous and you can get it [here](http://tehsuperwilly.xyz/elite-journal)  
+It's an application that is used for Elite: Dangerous and you can get it at http://tehsuperwilly.xyz/elite-journal  
+
 I reckon its pretty cool. You should give it a try if you like Elite: Dangerous.
